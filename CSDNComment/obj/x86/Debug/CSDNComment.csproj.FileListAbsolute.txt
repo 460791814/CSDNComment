@@ -1,0 +1,7 @@
+F:\Code\CSDNComment\CSDNComment\bin\Debug\CSDNComment.exe
+F:\Code\CSDNComment\CSDNComment\bin\Debug\CSDNComment.pdb
+F:\Code\CSDNComment\CSDNComment\obj\x86\Debug\CSDNComment.Form1.resources
+F:\Code\CSDNComment\CSDNComment\obj\x86\Debug\CSDNComment.Properties.Resources.resources
+F:\Code\CSDNComment\CSDNComment\obj\x86\Debug\CSDNComment.csproj.GenerateResource.Cache
+F:\Code\CSDNComment\CSDNComment\obj\x86\Debug\CSDNComment.exe
+F:\Code\CSDNComment\CSDNComment\obj\x86\Debug\CSDNComment.pdb
