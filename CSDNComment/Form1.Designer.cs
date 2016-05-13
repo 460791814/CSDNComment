@@ -37,7 +37,7 @@
             this.webBrowser1.Location = new System.Drawing.Point(12, 59);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(493, 250);
+            this.webBrowser1.Size = new System.Drawing.Size(875, 317);
             this.webBrowser1.TabIndex = 0;
             // 
             // GetCookies
@@ -54,7 +54,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(540, 388);
+            this.ClientSize = new System.Drawing.Size(899, 388);
             this.Controls.Add(this.GetCookies);
             this.Controls.Add(this.webBrowser1);
             this.Name = "Form1";
